@@ -61,7 +61,7 @@ A collaborative project built as part of a team/hackathon effort.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=porgerkriswin&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=porgerkriswin&layout=compact&theme=radical)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=porgerkriswin&theme=radical)
+![Streak](https://streak-stats.demolab.com/?user=porgerkriswin&theme=radical)
 
 </div>
 
