@@ -1,6 +1,10 @@
-# Porger Kriswin 👋
+<div align="center">
 
-### Information Technology Student | Aspiring Software Developer
+<a href="https://github.com/porgerkriswin">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2EBFA5&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Porger+Kriswin+%F0%9F%91%8B;Information+Technology+Student;Aspiring+Software+Developer;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+</a>
+
+</div>
 
 I'm an Information Technology student pursuing my B.Tech at LICET – Loyola-ICAM College of Engineering and Technology (Class of 2028). I'm passionate about building practical software solutions and continuously growing my skills as a developer. My goal is to land my first internship/junior developer role and keep learning along the way.
 
@@ -49,18 +53,45 @@ A retail inventory management system to track stock, sales, and product records.
 A collaborative project built as part of a team/hackathon effort.
 `Tech: [add tech used]`
 
-*(Edit each description above to accurately reflect what the project actually does and the tech stack you used — recruiters will click through and check!)*
-
 ---
 
 ### 📊 GitHub Stats
 
+<div align="center">
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=porgerkriswin&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=porgerkriswin&layout=compact&theme=radical)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=porgerkriswin&theme=radical)
+
+</div>
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/porgerkriswin/porgerkriswin/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+</div>
+
+*(This will appear blank until you complete the one-time setup below — see instructions)*
 
 ---
 
 ### 📫 Connect With Me
 
+<div align="center">
+
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:porgerkriswin@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/porgerkriswin)
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=porgerkriswin&color=2EBFA5&style=for-the-badge)
+
+</div>
