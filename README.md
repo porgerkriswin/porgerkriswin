@@ -37,13 +37,7 @@ I'm an Information Technology student pursuing my B.Tech at LICET – Loyola-ICA
 
 
 
-### 📊 GitHub Stats
 
-<div align="center">
-
-![Streak](https://streak-stats.demolab.com/?user=porgerkriswin&theme=radical)
-
-</div>
 
 ---
 
