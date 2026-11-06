@@ -1,92 +1,196 @@
-<div align="center">
-
-# 👋 Hi there, I'm Porger Kriswin!
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=B.Tech+IT+Student;Full+Stack+Developer;AI%2FML+Enthusiast;Building+Practical+Applications)](https://git.io/typing-svg)
+ <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:7F1D1D,100:EF4444&height=220&section=header&text=PORGER%20KRISWIN&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=STAY%20STRONG.%20KEEP%20BUILDING.&descAlignY=58&animation=fadeIn" width="100%" />
+</p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/porger-kriswin-a80032326" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=1000&color=EF4444&center=true&vCenter=true&width=650&height=45&lines=Hey+there!+I'm+Porger+Kriswin+%F0%9F%91%8B;B.Tech+Information+Technology+Student+%F0%9F%8E%93;Python+Developer+%F0%9F%92%BB;AI%2FML+%26+IoT+Enthusiast+%F0%9F%A4%96;STAY+STRONG.+KEEP+BUILDING.+%E2%9A%A1" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/porger-kriswin-a80032326">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-DC2626?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn" />
   </a>
+  &nbsp;
   <a href="mailto:porgerkriswin@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Contact-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email" />
   </a>
+  &nbsp;
   <a href="https://github.com/porgerkriswin">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Follow-111111?style=for-the-badge&logo=github&logoColor=EF4444" alt="GitHub" />
   </a>
 </p>
 
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=porgerkriswin&label=PROFILE%20VIEWS&color=dc2626&style=for-the-badge" alt="Profile Views" />
+</p>
 
 ---
 
-### 🚀 About Me
+<h2 align="center">🔴 ABOUT ME</h2>
 
-- 🎓 **Education:** 3rd Year B.Tech in **Information Technology** at **Loyola-ICAM College of Engineering and Technology (LICET)** *(Expected Graduation: 2028)*
-- 🎯 **Career Focus:** Full Stack Web Development & Artificial Intelligence / Machine Learning
-- 💡 **Passion:** Building end-to-end applications using Python, Flask, modern web tools, and ML models
-- 🌱 **Currently Learning:** Mastering Git/GitHub workflows & deepening advanced SQL database design
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=F87171&center=true&vCenter=true&width=650&height=30&lines=Driven+by+curiosity.+Building+for+impact.;Learning+Today.+Creating+Tomorrow." alt="About Me Typing" />
+</p>
 
----
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="340" alt="Developer coding animation" />
+</p>
 
-### 🛠️ Technical Skills
+<p align="center">
+  Hey! I'm <b>Porger Kriswin</b>, a passionate <b>B.Tech Information Technology student</b> at <b>Loyola-ICAM College of Engineering and Technology</b>, Chennai, India.
+  <br/><br/>
+  I enjoy building software applications, exploring Artificial Intelligence and Machine Learning, and developing IoT-based solutions to solve practical real-world problems.
+</p>
 
-<div align="left">
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-111111?style=flat-square" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Degree-B.Tech%20IT-DC2626?style=flat-square" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Graduation-2028-111111?style=flat-square" />
+</p>
 
-| Category | Technologies & Tools |
-| :--- | :--- |
-| **Programming Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) |
-| **Web Development** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) |
-| **AI / Machine Learning** | ![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) |
-| **App Development** | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) |
-| **Databases & Tools** | ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
-
-</div>
-
----
-
-### 📌 Featured Projects
-
-#### 1. 📚 [Digital Library Management System](https://github.com/porgerkriswin/meditrack.1)
-> A full-featured web-based management system for tracking book catalogues, borrowing transactions, and user downloads.
-- **Tech Stack:** `Python` • `Flask` • `SQLite` • `HTML5` • `CSS3` • `JavaScript`
-- **Key Features:** Searchable catalog, issue/return management, automated record keeping.
-- 🔗 **Repository:** [porgerkriswin/meditrack.1](https://github.com/porgerkriswin/meditrack.1)
-
-#### 2. 🎗️ [Breast Cancer Prediction System](https://github.com/porgerkriswin/breast-cancer)
-> An interactive ML diagnostic tool to classify tumors as Benign or Malignant based on clinical features.
-- **Tech Stack:** `Python` • `Scikit-learn` • `Streamlit` • `Pandas` • `NumPy`
-- **Key Features:** High accuracy ML model, real-time predictions, clean user interface.
-- 🔗 **Repository:** [porgerkriswin/breast-cancer](https://github.com/porgerkriswin/breast-cancer)
-
-#### 3. 🛒 [Retail Inventory & Billing System](https://github.com/porgerkriswin/retail_inventory)
-> An inventory tracking and checkout billing system designed for retail stores.
-- **Tech Stack:** `Python` • `SQLite`
-- **Key Features:** Product stock tracking, automated bill calculation, SQLite-backed ledger.
-- 🔗 **Repository:** [porgerkriswin/retail_inventory](https://github.com/porgerkriswin/retail_inventory)
-
-#### 4. 🏫 Smart Campus Emergency & Maintenance System *(In Development)*
-> An IoT & AI-assisted campus monitoring network for rapid emergency dispatch and maintenance ticketing.
-- **Tech Stack:** `ESP32` • `IoT` • `Python` • `Flask` • `SQLite` • `Ollama (Local LLM)`
-- **Key Features:** Sensor-based hazard detection, automated incident alerts, AI complaint classification.
+<p align="center">
+  💻 <b>Interests:</b> Software Development, AI/ML, IoT & Problem Solving
+  <br/>
+  ⚡ <b>Philosophy:</b> <i>"Stay strong. Keep learning. Never stop building."</i>
+</p>
 
 ---
 
-### 📊 GitHub Stats
+<h2 align="center">🚀 FEATURED PROJECTS</h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=porgerkriswin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Porger Kriswin's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=porgerkriswin&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="45%" />
-</div>
+<table width="100%">
+<tr>
+<td width="50%" align="center">
+  <h3>🏫 Smart Campus Management</h3>
+  <p>IoT-based emergency and maintenance monitoring system with AI-powered complaint classification.</p>
+  <sub>Python • Flask • IoT • SQLite • Ollama</sub>
+</td>
+<td width="50%" align="center">
+  <h3>🩺 Breast Cancer Prediction</h3>
+  <p>Machine learning application for classifying breast cancer cases into benign and malignant predictions.</p>
+  <sub>Python • Streamlit • Scikit-learn • Pandas</sub>
+  <br/><br/>
+  <a href="https://github.com/porgerkriswin/breast-cancer">
+    <img src="https://img.shields.io/badge/Source_Code-View-DC2626?style=for-the-badge&logo=github" alt="Source Code" />
+  </a>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+  <h3>📚 Digital Library Management</h3>
+  <p>A web-based library platform for book management, searching, issuing and returning books.</p>
+  <sub>Python • Flask • SQLite • HTML • CSS • JavaScript</sub>
+  <br/><br/>
+  <a href="https://github.com/porgerkriswin/meditrack.1">
+    <img src="https://img.shields.io/badge/Source_Code-View-DC2626?style=for-the-badge&logo=github" alt="Source Code" />
+  </a>
+</td>
+<td width="50%" align="center">
+  <h3>🛒 Retail Inventory & Billing</h3>
+  <p>Inventory management and billing application for tracking products, stock and sales.</p>
+  <sub>Python • SQLite • Database Management</sub>
+  <br/><br/>
+  <a href="https://github.com/porgerkriswin/retail_inventory">
+    <img src="https://img.shields.io/badge/Source_Code-View-DC2626?style=for-the-badge&logo=github" alt="Source Code" />
+  </a>
+</td>
+</tr>
+</table>
 
 ---
 
-### 📫 Get in Touch
+<h2 align="center">🛠️ TECH STACK & SKILLS</h2>
 
-- 💼 **LinkedIn:** [linkedin.com/in/porger-kriswin-a80032326](https://www.linkedin.com/in/porger-kriswin-a80032326)
-- ✉️ **Email:** [porgerkriswin@gmail.com](mailto:porgerkriswin@gmail.com)
-- 🐙 **GitHub:** [@porgerkriswin](https://github.com/porgerkriswin)
+<p align="center"><b>Programming Languages</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,js&theme=dark" alt="Programming Languages" />
+</p>
 
-<div align="center">
-  <sub>Designed with ❤️ by Porger Kriswin</sub>
-</div>
+<p align="center"><b>Backend & Database</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flask,sqlite,mysql&theme=dark" alt="Backend and Database" />
+</p>
+
+<p align="center"><b>AI & Machine Learning</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-0a0a0a?style=for-the-badge&logo=pandas&logoColor=EF4444" />
+  <img src="https://img.shields.io/badge/NumPy-0a0a0a?style=for-the-badge&logo=numpy&logoColor=EF4444" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-0a0a0a?style=for-the-badge&logo=scikit-learn&logoColor=EF4444" />
+  <img src="https://img.shields.io/badge/Streamlit-0a0a0a?style=for-the-badge&logo=streamlit&logoColor=EF4444" />
+</p>
+
+<p align="center"><b>Tools & Development Environment</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,arduino,linux&theme=dark" alt="Development Tools" />
+</p>
+
+---
+
+<h2 align="center">📊 GITHUB ANALYTICS</h2>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=porgerkriswin&show_icons=true&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&icon_color=ef4444&border_color=ef4444&border_radius=8" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=porgerkriswin&layout=compact&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&border_color=ef4444&border_radius=8" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=porgerkriswin&theme=dark&background=0a0a0a&ring=ef4444&fire=ef4444&currStreakLabel=ef4444&border=ef4444" width="75%" alt="GitHub Streak" />
+</p>
+
+---
+
+<h2 align="center">🐍 CONTRIBUTION JOURNEY</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/porgerkriswin/porgerkriswin/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake" />
+</p>
+
+---
+
+<h2 align="center">🎯 CURRENT LEARNING GOALS</h2>
+
+<p align="center">
+  📌 Strengthening Data Structures & Algorithms
+  <br/>
+  📌 Improving Python and Full-Stack Development
+  <br/>
+  📌 Exploring Artificial Intelligence & Machine Learning
+  <br/>
+  📌 Building Real-World IoT Applications
+  <br/>
+  📌 Improving Software Engineering Skills
+</p>
+
+---
+
+<h2 align="center">📬 LET'S CONNECT</h2>
+
+<p align="center">
+  I'm always interested in learning, building innovative projects and collaborating with fellow developers.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/porger-kriswin-a80032326">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-DC2626?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:porgerkriswin@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact_Me-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Gmail" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/porgerkriswin">
+    <img src="https://img.shields.io/badge/GitHub-Follow-111111?style=for-the-badge&logo=github&logoColor=EF4444" alt="GitHub" />
+  </a>
+</p>
+
+<p align="center">
+  <b>⚡ STAY STRONG. KEEP BUILDING. ⚡</b>
+  <br/>
+  <i>Thanks for visiting my profile!</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EF4444,50:7F1D1D,100:050505&height=120&section=footer" width="100%" alt="Footer" />
+</p>
